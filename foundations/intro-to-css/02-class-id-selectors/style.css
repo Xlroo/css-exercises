@@ -1,0 +1,17 @@
+.class-one{
+    background-color: rgb(232, 151, 165);
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+#one{
+    color:blue;
+    font-size: 36px;
+}
+.class-one.class-two{
+    font-size: 24px;
+
+}
+#two{
+    background-color: rgb(164, 228, 164);
+    font-size: 24px;
+    font-weight: bold;
+}
